@@ -1,0 +1,6 @@
+#app {
+    min-height: 940px;
+    height: auto;
+    display: flex; /* Optional: If you want to use flexbox for layout */
+    flex-direction: column; /* Optional: For vertical stacking */
+}
